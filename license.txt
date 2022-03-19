@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hayne Street House
+* source:	https://sketchfab.com/3d-models/hayne-street-house-19986860658e4700834e22c08e136595
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hayne Street House" (https://sketchfab.com/3d-models/hayne-street-house-19986860658e4700834e22c08e136595) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
