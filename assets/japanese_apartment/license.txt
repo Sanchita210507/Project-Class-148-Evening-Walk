@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Apartment / 亀谷荘
+* source:	https://sketchfab.com/3d-models/japanese-apartment-ccbfe37b66cc4a37bc96b7e406e53771
+* author:	masanaga (https://sketchfab.com/tasklong)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Apartment / 亀谷荘" (https://sketchfab.com/3d-models/japanese-apartment-ccbfe37b66cc4a37bc96b7e406e53771) by masanaga (https://sketchfab.com/tasklong) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
